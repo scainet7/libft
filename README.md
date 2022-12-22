@@ -124,6 +124,18 @@ Part 1 | Part 2| Bonus part | Other and personal
 
 ## Instructions
 
+Clone this repository in your local computer:
+
+```sh
+git clone https://github.com/scainet7/libft.git
+```
+```sh
+cd libft
+```
+```sh
+make
+```
+
 ## Using libft in projects
 
 ### [ft_printf](https://github.com/scainet7/ft_printf)
