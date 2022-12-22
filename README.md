@@ -118,7 +118,7 @@ Part 1 | Part 2| Bonus part | Other and personal
 * [ft_getword_mod](Other_and_Personal/ft_getword_mod)	- the ft_getword() function takes a string and a delimiter and returns a string with the letters between the start point of the string and the next delimiter
 * [ft_isspace](Other_and_Personal/ft_isspace)	- checks if a given character is a space character
 * [ft_strcat](Other_and_Personal/ft_strcat)	- the strcat() function adds the string str to the string dest, overwriting the `\0' character at the end of dest and adding the `\0' ending character to the string. The strings cannot overlap, and the dest string must have enough free space to accommodate the concatenated strings
-* [ft_strcdup](Other_and_Personal/ft_strcdup)	- allocates a specific amount of memory to copy a string until the occurence of c. Example: ft_strcdup("Blue", 'u') -> "Bl"
+* [ft_strcdup](Other_and_Personal/ft_strcdup)	- allocates a specific amount of memory to copy a string until the occurence of c
 * [ft_strstr](Other_and_Personal/ft_strstr)	- locate substring. Finds the first occurrence of the substring 'needle' in the string 'haystack'. The terminating null bytes ('\0') are not compared
 * [get_next_line](Other_and_Personal/get_next_line)	- Function that returns a line, read from a file descriptor
 
@@ -258,8 +258,8 @@ Libft — это проект, который требует от нас вос�
 * [ft_freelst](Other_and_Personal/ft_freelst) — освобождает место в памяти, на которое указывает список
 * [ft_getword_mod](Other_and_Personal/ft_getword_mod) — функция ft_getword() принимает строку и разделитель и возвращает строку с буквами между начальной точкой строки и следующим разделителем
 * [ft_isspace](Other_and_Personal/ft_isspace) — проверяет, является ли данный символ пробелом
-* [ft_strcat](Other_and_Personal/ft_strcat) - функция strcat() добавляет строку str к строке dest, перезаписывая символ `\0' в конце dest и добавляя завершающий символ `\0' к строке. Строки не могут перекрываться, а в строке назначения должно быть достаточно свободного места для размещения объединенных строк.
-* [ft_strcdup](Other_and_Personal/ft_strcdup) — выделяет определенный объем памяти для копирования строки до появления c. Пример: ft_strcdup("Синий", 'u') -> "Bl"
+* [ft_strcat](Other_and_Personal/ft_strcat) - функция strcat() добавляет строку str к строке dest, перезаписывая символ `\0' в конце dest и добавляя завершающий символ `\0' к строке. Строки не могут перекрываться, а в строке назначения должно быть достаточно свободного места для размещения объединенных строк
+* [ft_strcdup](Other_and_Personal/ft_strcdup) — выделяет определенный объем памяти для копирования строки до появления c
 * [ft_strstr](Other_and_Personal/ft_strstr) - найти подстроку. Находит первое вхождение подстроки "игла" в строку "стог сена". Завершающие нулевые байты ('\0') не сравниваются
 * [get_next_line](Other_and_Personal/get_next_line) — функция, возвращающая строку, прочитанную из дескриптора файла
 
