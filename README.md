@@ -28,12 +28,12 @@ Libft is an project that requieres us to re-create some standard C library funct
 
 * [Part1](#Part1): Some of the standard C functions.
 * [Part1](#Part1): Functions that will be useful for later projects.
-* [Bonus_Part](#Bonus-Part): Functions that will be useful for linked list manipulation.
-* [Other_and_Personal](#Other-and-Personal): Functions I believe will be useful later.
+* [Bonus Part](#Bonus-Part): Functions that will be useful for linked list manipulation.
+* [Other and Personal](#Other-and-Personal): Functions I believe will be useful later.
 
 ## List of functions
 
-[Part1](#Part1) | [Part2](#Part2) | [Bonus_Part](#Bonus-Part) | [Other_and_Personal](#Other-and-Personal)
+Part 1 | Part 2| Bonus part | Other and personal
 :----------- | :-----------: | :-----------: | -----------:
 [ft_memset](#ft_memset)		|[ft_substr](#ft_substr)    | [ft_lstnew](#ft_lstnew)            | [ft_islower](#ft_islower) 
 [ft_bzero](#ft_bzero)		|[ft_strjoin](#ft_strjoin)  | [ft_lstadd_front](#ft_lstadd_front)| [ft_isupper](#ft_isupper) 
