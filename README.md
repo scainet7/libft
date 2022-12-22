@@ -12,12 +12,11 @@
 
 ## Content
 * [What is libft](#What-is-libft)
-* [What is it?](#What-is-it?)
-* [List of functions](#List-of-functions)
+* [What is it?](#What-is-it?) 
 * [Function description](#Function-description)
 * [Instructions](#Instructions)
 * [Using libft in projects](#Using-libft-in-projects)
-
+<!--- [List of functions](#List-of-functions) --->
 ## What is libft
 
 ### [The task](https://github.com/scainet7/libft/blob/master/subject/subject_libft_en.pdf)
@@ -31,7 +30,7 @@ Libft is an project that requieres us to re-create some standard C library funct
 * [Bonus Part](#Bonus-Part): Functions that will be useful for linked list manipulation.
 * [Other and Personal](#Other-and-Personal): Functions I believe will be useful later.
 
-## List of functions
+<!--- ## List of functions
 
 Part 1 | Part 2| Bonus part | Other and personal
 :----------- | :-----------: | :-----------: | -----------:
@@ -58,6 +57,7 @@ Part 1 | Part 2| Bonus part | Other and personal
 [ft_atoi](#ft_atoi)		||| 
 [ft_calloc](#ft_calloc)		||| 
 [ft_strdup](#ft_strdup)		||| 
+--->
 
 ## Function description
 
@@ -151,10 +151,10 @@ make
 ## Содержание
 * [Что такое libft](#Что-такое-libft)
 * [Разделы](#Разделы)
-* [Список функций](#Список-функций)
 * [Описание функции](#Описание-функций)
 * [Инструкция](#Инструкция)
 * [Использование libft в проектах](#Использование-libft-в-проектах)
+<!--- * [Список функций](#Список-функций) --->
 
 ## Что такое libft
 
@@ -169,7 +169,7 @@ Libft — это проект, который требует от нас вос�
 * [Бонусная часть](#Бонусная-часть): функции, которые будут полезны для работы со связанными списками.
 * [Остальные и индивидуальные функции](#Остальные-и-индивидуальные-функции): Функции, которые, как мне кажется, пригодятся позже.
 
-## Список функций
+<!--- ## Список функций
 
 Часть 1. | Часть 2.| Бонусная часть. | Остальные и индивидуальные функции.
 :----------- | :-----------: | :-----------: | -----------:
@@ -198,7 +198,7 @@ Libft — это проект, который требует от нас вос�
 [ft_atoi](#ft_atoi)		||| 
 [ft_calloc](#ft_calloc)		||| 
 [ft_strdup](#ft_strdup)		||| 
-[ft_freelst](#ft_freelst)
+--->
 
 ## Описание функции
 
