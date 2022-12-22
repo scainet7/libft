@@ -12,7 +12,7 @@
 
 ## Content
 * [What is libft](#What-is-libft)
-* [What is it?](#What-is-it_?) 
+* [What is it_?](#What-is-it_?) 
 * [Function description](#Function-description)
 * [Instructions](#Instructions)
 * [Using libft in projects](#Using-libft-in-projects)
@@ -23,7 +23,7 @@
 
 Libft is an project that requieres us to re-create some standard C library functions for future projects, and have a deeper understanding of data structures and basic algorithms. We are not allowed to use some standard libraries on our projects, so we have to keep growing this libary with our own functions as we go farther in the program.
 
-## What is it?
+## What is it_?
 
 * [Part1](#Part1): Some of the standard C functions.
 * [Part1](#Part1): Functions that will be useful for later projects.
